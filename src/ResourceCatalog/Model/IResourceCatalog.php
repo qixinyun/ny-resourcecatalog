@@ -7,6 +7,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'NULL' => 0,
         'XBXZCF' => 1,
         'XBXZXK' => 2,
+        'SXBZXRMD' => 3,
+        'FRXX' => 4,
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
@@ -17,7 +19,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         ),
         IUserGroup::ID['FGW'] => array(),
         IUserGroup::ID['DSJJ'] => array(),
-        IUserGroup::ID['SCJGJ'] => array(),
+        IUserGroup::ID['SCJGJ'] => array(self::TYPE['FRXX']),
         IUserGroup::ID['ZFW'] => array(),
         IUserGroup::ID['ZZB'] => array(),
         IUserGroup::ID['XCB'] => array(),
@@ -45,7 +47,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['NYNCJ'] => array(),
         IUserGroup::ID['TJJ'] => array(),
         IUserGroup::ID['KJJ'] => array(),
-        IUserGroup::ID['ZJFY'] => array(),
+        IUserGroup::ID['ZJFY'] => array(self::TYPE['SXBZXRMD']),
         IUserGroup::ID['JCY'] => array(),
         IUserGroup::ID['MZJ'] => array(),
         IUserGroup::ID['YBJ'] => array(),

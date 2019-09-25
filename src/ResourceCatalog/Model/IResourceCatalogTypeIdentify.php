@@ -7,5 +7,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['NULL'] => '',
         IResourceCatalog::TYPE['XBXZCF'] => 'XBXZCF',
         IResourceCatalog::TYPE['XBXZXK'] => 'XBXZXK',
+        IResourceCatalog::TYPE['SXBZXRMD'] => 'SXBZXRMD',
+        IResourceCatalog::TYPE['FRXX'] => 'FRXX',
     );
 }
