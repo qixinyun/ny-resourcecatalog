@@ -9,5 +9,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XBXZXK'] => '2019行政许可公示信息',
         IResourceCatalog::TYPE['SXBZXRMD'] => '失信被执行人名单',
         IResourceCatalog::TYPE['FRXX'] => '法人信息',
+        IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }

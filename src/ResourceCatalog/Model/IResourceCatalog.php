@@ -9,6 +9,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'XBXZXK' => 2,
         'SXBZXRMD' => 3,
         'FRXX' => 4,
+        'TEST' => 500
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
@@ -17,7 +18,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XBXZCF'],
             self::TYPE['XBXZXK']
         ),
-        IUserGroup::ID['FGW'] => array(),
+        IUserGroup::ID['FGW'] => array(self::TYPE['TEST']),
         IUserGroup::ID['DSJJ'] => array(),
         IUserGroup::ID['SCJGJ'] => array(self::TYPE['FRXX']),
         IUserGroup::ID['ZFW'] => array(),

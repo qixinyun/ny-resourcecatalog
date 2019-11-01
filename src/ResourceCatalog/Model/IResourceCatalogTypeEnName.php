@@ -9,5 +9,6 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['XBXZXK'] => 'xbxzxk',
         IResourceCatalog::TYPE['SXBZXRMD'] => 'sxbzxrmd',
         IResourceCatalog::TYPE['FRXX'] => 'frxx',
+        IResourceCatalog::TYPE['TEST'] => 'test',
     );
 }
