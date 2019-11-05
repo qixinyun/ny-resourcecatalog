@@ -37,7 +37,7 @@ interface IUserGroup extends IUserGroupIdentify
         'KJJ' => 30,
         'ZJFY' => 31,
         'JCY' => 32,
-        'MZJ' => 33,
+        'MZZJSWJ' => 33,
         'YBJ' => 34,
         'RFB' => 35,
         'JRJ' => 36,
