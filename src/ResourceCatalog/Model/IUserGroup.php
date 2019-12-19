@@ -95,7 +95,7 @@ interface IUserGroup extends IUserGroupIdentify
         'NZXSLJ' => 626,
         'NZXZJJ' => 627,
         'NZXHBJ' => 628,
-        'NZXFCGLJ' => 6029,
+        'NZXFCGLJ' => 629,
         'NZXSWUJ' => 630,
         'NZXYCGS' => 631,
         'RHNZXZH' => 632,
