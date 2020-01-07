@@ -72,6 +72,7 @@ interface IResourceCatalogTypeEnName
 		IResourceCatalog::TYPE['SPFYSXK'] => 'spfysxk',
 		IResourceCatalog::TYPE['FDCKFQYZZXX'] => 'fdckfqyzzxx',
 		IResourceCatalog::TYPE['JGRYXXSFGJ'] => 'jgryxxsfgj',
+		IResourceCatalog::TYPE['XYTXHMD'] => 'xytxhmd',
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
 }

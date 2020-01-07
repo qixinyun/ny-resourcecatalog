@@ -72,6 +72,7 @@ interface IResourceCatalogTypeName
 		IResourceCatalog::TYPE['SPFYSXK'] => '商品房预售许可',
 		IResourceCatalog::TYPE['FDCKFQYZZXX'] => '房地产开发企业资质信息',
 		IResourceCatalog::TYPE['JGRYXXSFGJ'] => '机构荣誉信息',
+		IResourceCatalog::TYPE['XYTXHMD'] => '信用体系红名单',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }
