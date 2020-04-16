@@ -73,6 +73,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'FDCKFQYZZXX' => 66,
         'JGRYXXSFGJ' => 67,
         'XYTXHMD' => 68,
+        'SYDWJBXX'=>69,
         'TEST' => 500
     );
 
@@ -83,7 +84,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XBXZXK'],
             self::TYPE['XYTXHMD']
         ),
-        IUserGroup::ID['SXYB'] => array(self::TYPE['JGJCDXZJL'], self::TYPE['TEST'], self::TYPE['SJJXMXX']),
+        IUserGroup::ID['SXYB'] => array(self::TYPE['JGJCDXZJL'], self::TYPE['TEST'], self::TYPE['SJJXMXX'], self::TYPE['SYDWJBXX']),
         IUserGroup::ID['DSJJ'] => array(),
         IUserGroup::ID['SCJGJ'] => array(
             self::TYPE['QIYEJBXX'],
