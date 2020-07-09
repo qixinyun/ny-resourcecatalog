@@ -74,6 +74,18 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => '机构荣誉信息',
         IResourceCatalog::TYPE['XYTXHMD'] => '信用体系红名单',
         IResourceCatalog::TYPE['SYDWJBXX'] => '事业单位基本信息',
+        
+        IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
+        IResourceCatalog::TYPE['XZZSXX'] => '行政征收信息',
+        IResourceCatalog::TYPE['XZCJXX'] => '行政裁决信息',
+        IResourceCatalog::TYPE['XZQRXX'] => '行政确认信息',
+        IResourceCatalog::TYPE['XZJFXX'] => '行政给付信息',
+        IResourceCatalog::TYPE['JDJCXX'] => '监督检查信息',
+        IResourceCatalog::TYPE['XZJLXX'] => '行政奖励信息',
+        IResourceCatalog::TYPE['QTXZZFXX'] => '其他行政执法信息',
+        IResourceCatalog::TYPE['QYFRHZRRHONGMDXX'] => '企业法人和自然人红名单信息',
+        IResourceCatalog::TYPE['QYFRHZRRHEIMDXX'] => '企业法人和自然人黑名单信息',
+        
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }

@@ -74,6 +74,18 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => 'jgryxxsfgj',
         IResourceCatalog::TYPE['XYTXHMD'] => 'xytxhmd',
         IResourceCatalog::TYPE['SYDWJBXX'] => 'sydwjbxx',
+        
+        IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
+        IResourceCatalog::TYPE['XZZSXX'] => 'xzzsxx',
+        IResourceCatalog::TYPE['XZCJXX'] => 'xzcjxx',
+        IResourceCatalog::TYPE['XZQRXX'] => 'xzqrxx',
+        IResourceCatalog::TYPE['XZJFXX'] => 'xzjfxx',
+        IResourceCatalog::TYPE['JDJCXX'] => 'jdjcxx',
+        IResourceCatalog::TYPE['XZJLXX'] => 'xzjlxx',
+        IResourceCatalog::TYPE['QTXZZFXX'] => 'qtxzzfxx',
+        IResourceCatalog::TYPE['QYFRHZRRHONGMDXX'] => 'qyfrhzrrhongmdxx',
+        IResourceCatalog::TYPE['QYFRHZRRHEIMDXX'] => 'qyfrhzrrheimdxx',
+
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
 }
