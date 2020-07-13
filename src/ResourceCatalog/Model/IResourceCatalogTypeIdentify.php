@@ -83,8 +83,9 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['JDJCXX'] => 'JDJCXX',
         IResourceCatalog::TYPE['XZJLXX'] => 'XZJLXX',
         IResourceCatalog::TYPE['QTXZZFXX'] => 'QTXZZFXX',
-        IResourceCatalog::TYPE['QYFRHZRRHONGMDXX'] => 'QYFRHZRRHONGMDXX',
-        IResourceCatalog::TYPE['QYFRHZRRHEIMDXX'] => 'QYFRHZRRHEIMDXX',
+        IResourceCatalog::TYPE['HEIMDXX'] => 'HEIMDXX',
+        IResourceCatalog::TYPE['HONGMDXX'] => 'HONGMDXX',
+        IResourceCatalog::TYPE['HYFJFLJG'] => 'HYFJFLJG',
         
         IResourceCatalog::TYPE['TEST'] => 'TEST',
     );
