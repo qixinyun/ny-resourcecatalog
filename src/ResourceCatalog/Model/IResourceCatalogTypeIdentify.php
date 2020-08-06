@@ -88,5 +88,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['HYFJFLJG'] => 'HYFJFLJG',
         
         IResourceCatalog::TYPE['TEST'] => 'TEST',
+IResourceCatalog::TYPE['CSZYML'] => 'CSZYML',
+        //@position
     );
 }

@@ -88,5 +88,7 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['HYFJFLJG'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+IResourceCatalog::TYPE['CSZYML'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['LICENSE'],
+        //@position
     );
 }

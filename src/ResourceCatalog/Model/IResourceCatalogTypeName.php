@@ -88,5 +88,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['HYFJFLJG'] => '行业分级分类结果',
         
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
+IResourceCatalog::TYPE['CSZYML'] => '测试资源目录',
+        //@position
     );
 }

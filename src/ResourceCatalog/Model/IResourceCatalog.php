@@ -87,6 +87,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'HONGMDXX' => 79,
         'HYFJFLJG' => 80,
         'TEST' => 500
+'CSZYML'=>81,
+        //@position_type_81
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
@@ -472,7 +474,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['NZXMZJ'] => array(),
         IUserGroup::ID['NZXWJW'] => array(),
         IUserGroup::ID['NZXZRZYJ'] => array(),
-        IUserGroup::ID['NZXFPB'] => array(),
+        IUserGroup::ID['NZXFPB'] => array(self::TYPE['CSZYML'],),
         IUserGroup::ID['NZXWGLJ'] => array(),
         IUserGroup::ID['NZXSWJ'] => array(),
         IUserGroup::ID['NZXSCJGJGS'] => array(),
@@ -504,6 +506,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['GXQXYBGS'] => array(),
         IUserGroup::ID['YHGQXYBGS'] => array(),
         IUserGroup::ID['GXGQXYBGS'] => array(),
+        //@position_usergroup
     );
 
     const STATUS_NORMAL = 0;
