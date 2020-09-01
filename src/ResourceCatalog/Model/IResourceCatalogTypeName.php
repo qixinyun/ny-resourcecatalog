@@ -86,7 +86,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['HEIMDXX'] => '黑名单信息',
         IResourceCatalog::TYPE['HONGMDXX'] => '红名单信息',
         IResourceCatalog::TYPE['HYFJFLJG'] => '行业分级分类结果',
-        
+        IResourceCatalog::TYPE['NSRXX'] => '纳税人信息',
+
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }

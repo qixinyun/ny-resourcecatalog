@@ -86,7 +86,8 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['HEIMDXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['HONGMDXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['HYFJFLJG'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        
+        IResourceCatalog::TYPE['NSRXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
     );
 }
