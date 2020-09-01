@@ -86,7 +86,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'HEIMDXX' => 78,
         'HONGMDXX' => 79,
         'HYFJFLJG' => 80,
-        'NSRXX' => 81,
         'TEST' => 500
     );
 

@@ -86,7 +86,6 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['HEIMDXX'] => 'heimdxx',
         IResourceCatalog::TYPE['HONGMDXX'] => 'hongmdxx',
         IResourceCatalog::TYPE['HYFJFLJG'] => 'hyfjfljg',
-        IResourceCatalog::TYPE['NSRXX'] => 'nsrxx',
 
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
