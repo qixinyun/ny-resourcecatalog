@@ -87,6 +87,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['HONGMDXX'] => '红名单信息',
         IResourceCatalog::TYPE['HYFJFLJG'] => '行业分级分类结果',
 
+        IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
+        
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }

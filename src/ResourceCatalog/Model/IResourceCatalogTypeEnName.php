@@ -87,6 +87,8 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['HONGMDXX'] => 'hongmdxx',
         IResourceCatalog::TYPE['HYFJFLJG'] => 'hyfjfljg',
 
+        IResourceCatalog::TYPE['QYHYSJ'] => 'qyhysj',
+
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
 }

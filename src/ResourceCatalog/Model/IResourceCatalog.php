@@ -86,6 +86,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'HEIMDXX' => 78,
         'HONGMDXX' => 79,
         'HYFJFLJG' => 80,
+
+        'QYHYSJ' => 81,
         'TEST' => 500
     );
 
@@ -103,6 +105,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['JDJCXX'],
             self::TYPE['XZJLXX'],
             self::TYPE['QTXZZFXX'],
+            self::TYPE['QYHYSJ'],
         ),
         IUserGroup::ID['SXYB'] => array(
             self::TYPE['JGJCDXZJL'], 
