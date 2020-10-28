@@ -62,6 +62,7 @@ interface IUserGroup extends IUserGroupIdentify
         'FGW' => 55,
         'SWWXB' => 56,
         'SXFZD' => 57,
+        'BKNYSW' => 90,
         'DZSXYBGS' => 101,
         'WLQXYBGS' => 201,
         'WQQXYBGS' => 301,

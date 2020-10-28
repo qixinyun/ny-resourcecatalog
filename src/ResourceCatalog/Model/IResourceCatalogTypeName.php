@@ -90,5 +90,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
         
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
+IResourceCatalog::TYPE['DWYSZCXX'] => '单位用水注册信息',
+        //@position
     );
 }

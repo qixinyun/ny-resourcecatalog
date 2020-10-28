@@ -62,6 +62,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['FGW'] => 'FGW',
         IUserGroup::ID['SWWXB'] => 'SWWXB',
         IUserGroup::ID['SXFZD'] => 'SXFZD',
+        IUserGroup::ID['BKNYSW'] => 'BKNYSW',
         IUserGroup::ID['DZSXYBGS'] => 'DZSXYBGS',
         IUserGroup::ID['WLQXYBGS'] => 'WLQXYBGS',
         IUserGroup::ID['WQQXYBGS'] => 'WQQXYBGS',

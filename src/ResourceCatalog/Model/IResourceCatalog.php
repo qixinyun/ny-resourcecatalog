@@ -88,6 +88,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'HYFJFLJG' => 80,
 
         'QYHYSJ' => 81,
+'DWYSZCXX'=>82,
+        //@position_type_83
         'TEST' => 500
     );
 
@@ -506,7 +508,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['NYXQXYBGS'] => array(),
         IUserGroup::ID['GXQXYBGS'] => array(),
         IUserGroup::ID['YHGQXYBGS'] => array(),
-        IUserGroup::ID['GXGQXYBGS'] => array(),
+IUserGroup::ID['BKNYSW'] => array(self::TYPE['DWYSZCXX']),
+        //@position_usergroup
     );
 
     const STATUS_NORMAL = 0;
