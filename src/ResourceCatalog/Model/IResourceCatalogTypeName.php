@@ -91,6 +91,7 @@ interface IResourceCatalogTypeName
         
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
 IResourceCatalog::TYPE['DWYSZCXX'] => '单位用水注册信息',
+IResourceCatalog::TYPE['TQMYQYZK'] => '拖欠民营企业账款',
         //@position
     );
 }
