@@ -93,11 +93,11 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DWYSZCXX'] => '单位用水注册信息',
         IResourceCatalog::TYPE['TQMYQYZK'] => '拖欠民营企业账款',
 
-IResourceCatalog::TYPE['ZFCGHT'] => '政府采购合同',
-IResourceCatalog::TYPE['GGZYJYHT'] => '公共资源交易合同',
-IResourceCatalog::TYPE['GQCGHT'] => '国企采购合同',
-IResourceCatalog::TYPE['GCJSHT'] => '工程建设合同',
-IResourceCatalog::TYPE['QTHT'] => '其他合同',
+        IResourceCatalog::TYPE['ZFCGHT'] => '政府采购合同',
+        IResourceCatalog::TYPE['GGZYJYHT'] => '公共资源交易合同',
+        IResourceCatalog::TYPE['GQCGHT'] => '国企采购合同',
+        IResourceCatalog::TYPE['GCJSHT'] => '工程建设合同',
+        IResourceCatalog::TYPE['QTHT'] => '其他合同',
         //@position
     );
 }

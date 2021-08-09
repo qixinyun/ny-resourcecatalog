@@ -93,11 +93,11 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['DWYSZCXX'] => 'DWYSZCXX',
         IResourceCatalog::TYPE['TQMYQYZK'] => 'TQMYQYZK',
 
-IResourceCatalog::TYPE['ZFCGHT'] => 'ZFCGHT',
-IResourceCatalog::TYPE['GGZYJYHT'] => 'GGZYJYHT',
-IResourceCatalog::TYPE['GQCGHT'] => 'GQCGHT',
-IResourceCatalog::TYPE['GCJSHT'] => 'GCJSHT',
-IResourceCatalog::TYPE['QTHT'] => 'QTHT',
+        IResourceCatalog::TYPE['ZFCGHT'] => 'ZFCGHT',
+        IResourceCatalog::TYPE['GGZYJYHT'] => 'GGZYJYHT',
+        IResourceCatalog::TYPE['GQCGHT'] => 'GQCGHT',
+        IResourceCatalog::TYPE['GCJSHT'] => 'GCJSHT',
+        IResourceCatalog::TYPE['QTHT'] => 'QTHT',
         //@position
     );
 }
