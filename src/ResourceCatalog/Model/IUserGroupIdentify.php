@@ -113,5 +113,6 @@ interface IUserGroupIdentify
         IUserGroup::ID['GXQXYBGS'] => 'GXQXYBGS',
         IUserGroup::ID['YHGQXYBGS'] => 'YHGQXYBGS',
         IUserGroup::ID['GXGQXYBGS'] => 'GXGQXYBGS',
+        IUserGroup::ID['SZGH'] => 'SZGH',
     );
 }

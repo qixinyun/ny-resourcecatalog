@@ -90,7 +90,14 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QYHYSJ'] => 'qyhysj',
 
         IResourceCatalog::TYPE['TEST'] => 'test',
-IResourceCatalog::TYPE['DWYSZCXX'] => 'dwyszcxx',
+        IResourceCatalog::TYPE['DWYSZCXX'] => 'dwyszcxx',
+        IResourceCatalog::TYPE['TQMYQYZK'] => 'tqmyqyzk',
+
+        IResourceCatalog::TYPE['ZFCGHT'] => 'zfcght',
+        IResourceCatalog::TYPE['GGZYJYHT'] => 'ggzyjyht',
+        IResourceCatalog::TYPE['GQCGHT'] => 'gqcght',
+        IResourceCatalog::TYPE['GCJSHT'] => 'gcjsht',
+        IResourceCatalog::TYPE['QTHT'] => 'qtht',
         //@position
     );
 }
