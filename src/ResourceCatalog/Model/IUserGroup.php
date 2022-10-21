@@ -114,5 +114,7 @@ interface IUserGroup extends IUserGroupIdentify
         'GXQXYBGS' => 1501,
         'YHGQXYBGS' => 1601,
         'GXGQXYBGS' => 1701,
+        'NYHRRQYXGS' => 1801,
+        'GDTNYRLYXZRGS' => 1901,
     );
 }
