@@ -125,8 +125,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'JMYNJFXX'=>117,
         'JMTNQFXX'=>118,
         'JMTNQJFYBJXX'=>119,
-'DWYSZC'=>120,
-'JMYSJFXX'=>121,
+        'DWYSZC'=>120,
+        'JMYSJFXX'=>121,
         //@position_type_122
         'TEST' => 500
     );
