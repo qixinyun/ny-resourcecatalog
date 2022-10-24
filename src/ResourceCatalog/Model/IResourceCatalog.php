@@ -103,7 +103,29 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'JDJC' => 95,
         'XZJL' => 96,
         'QTXZZF' => 97,
-        //@position_type_98
+        'DWYSJFXX'=>98,
+        'DWYSQFXX'=>99,
+        'DWYSPJFYBJXX'=>100,
+        'JMYSZCXX'=>101,
+        'JMYSQFXX'=>102,
+        'JMYSQFBJXX'=>103,
+        'DWRQZCXX'=>104,
+        'DWRQJFXX'=>105,
+        'DWRQQFXX'=>106,
+        'DWRQQJFYBJXX'=>107,
+        'JMRQZCXX'=>108,
+        'JMRQJFXX'=>109,
+        'JMRQQFXX'=>110,
+        'JMRQQJFYBJXX'=>111,
+        'DWCNZCXX'=>112,
+        'DCNJFXX'=>113,
+        'DWCNQFXX'=>114,
+        'DWCNQJFYBJXX'=>115,
+        'JMCNZCXX'=>116,
+        'JMYNJFXX'=>117,
+        'JMTNQFXX'=>118,
+        'JMTNQJFYBJXX'=>119,
+        //@position_type_120
         'TEST' => 500
     );
 
@@ -636,11 +658,33 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['GXQXYBGS'] => array(),
         IUserGroup::ID['YHGQXYBGS'] => array(),
         IUserGroup::ID['BKNYSW'] => array(
+            self::TYPE['JMYSQFBJXX'],
+            self::TYPE['JMYSQFXX'],
+            self::TYPE['JMYSZCXX'],
+            self::TYPE['DWYSPJFYBJXX'],
+            self::TYPE['DWYSQFXX'],
+            self::TYPE['DWYSJFXX'],
             self::TYPE['DWYSZCXX'],
         ),
         IUserGroup::ID['GXGQXYBGS'] => array(),
-        IUserGroup::ID['NYHRRQYXGS'] => array(),
-        IUserGroup::ID['GDTNYRLYXZRGS'] => array(),
+        IUserGroup::ID['NYHRRQYXGS'] => array(
+            self::TYPE['JMRQQJFYBJXX'],
+            self::TYPE['JMRQQFXX'],
+            self::TYPE['JMRQJFXX'],
+            self::TYPE['JMRQZCXX'],
+            self::TYPE['DWRQQJFYBJXX'],
+            self::TYPE['DWRQQFXX'],
+            self::TYPE['DWRQJFXX'],
+            self::TYPE['DWRQZCXX'],),
+        IUserGroup::ID['GDTNYRLYXZRGS'] => array(
+            self::TYPE['JMTNQJFYBJXX'],
+            self::TYPE['JMTNQFXX'],
+            self::TYPE['JMYNJFXX'],
+            self::TYPE['JMCNZCXX'],
+            self::TYPE['DWCNQJFYBJXX'],
+            self::TYPE['DWCNQFXX'],
+            self::TYPE['DCNJFXX'],
+            self::TYPE['DWCNZCXX'],),
         //@position_usergroup
     );
 
