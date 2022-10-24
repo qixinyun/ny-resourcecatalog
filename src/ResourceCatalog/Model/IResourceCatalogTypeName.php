@@ -90,7 +90,16 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
         
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
-IResourceCatalog::TYPE['DWYSZCXX'] => '单位用水注册信息',
+        IResourceCatalog::TYPE['DWYSZCXX'] => '单位用水注册信息',
+        IResourceCatalog::TYPE['AQSCHMD'] => '安全生产黑名单',
+        IResourceCatalog::TYPE['SXBZXR'] => '失信被执行人',
+        IResourceCatalog::TYPE['TQNMGGZHM'] => '拖欠农民工工资黑名单',
+        IResourceCatalog::TYPE['YZWFCXC'] => '严重违法超限超载黑名单',
+        IResourceCatalog::TYPE['ZDSSWFAJ'] => '重大税收违法案件当事人',
+        IResourceCatalog::TYPE['AJNSRMD'] => 'A级纳税人名单',
+        IResourceCatalog::TYPE['GLGCJSL'] => '2018年公路工程建设领域守信典型企业目录公示',
+        IResourceCatalog::TYPE['HGGJRZQYMD'] => '海关高级认证企业名单',
+        IResourceCatalog::TYPE['SYGCJSL'] => '2018年水运工程建设领域守信典型企业目录',
         //@position
     );
 }

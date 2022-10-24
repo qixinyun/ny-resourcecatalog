@@ -90,7 +90,16 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QYHYSJ'] => 'qyhysj',
 
         IResourceCatalog::TYPE['TEST'] => 'test',
-IResourceCatalog::TYPE['DWYSZCXX'] => 'dwyszcxx',
+        IResourceCatalog::TYPE['DWYSZCXX'] => 'dwyszcxx',
+        IResourceCatalog::TYPE['AQSCHMD'] => 'aqschmd',
+        IResourceCatalog::TYPE['SXBZXR'] => 'sxbzxr',
+        IResourceCatalog::TYPE['TQNMGGZHM'] => 'tqnmggzhm',
+        IResourceCatalog::TYPE['YZWFCXC'] => 'yzwfcxc',
+        IResourceCatalog::TYPE['ZDSSWFAJ'] => 'zdsswfaj',
+        IResourceCatalog::TYPE['AJNSRMD'] => 'ajnsrmd',
+        IResourceCatalog::TYPE['GLGCJSL'] => 'glgcjsl',
+        IResourceCatalog::TYPE['HGGJRZQYMD'] => 'hggjrzqymd',
+        IResourceCatalog::TYPE['SYGCJSL'] => 'sygcjsl',
         //@position
     );
 }
