@@ -88,7 +88,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['HYFJFLJG'] => 'HYFJFLJG',
         IResourceCatalog::TYPE['QYHYSJ'] => 'QYHYSJ',
         IResourceCatalog::TYPE['TEST'] => 'TEST',
-        IResourceCatalog::TYPE['DWYSZCXX'] => 'DWYSZCXX',
+//        IResourceCatalog::TYPE['DWYSZCXX'] => 'DWYSZCXX',
         IResourceCatalog::TYPE['TQMYQYZK'] => 'TQMYQYZK',
         IResourceCatalog::TYPE['ZFCGHT'] => 'ZFCGHT',
         IResourceCatalog::TYPE['GGZYJYHT'] => 'GGZYJYHT',
@@ -117,6 +117,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['JMYNJFXX'] => 'JMYNJFXX',
         IResourceCatalog::TYPE['JMTNQFXX'] => 'JMTNQFXX',
         IResourceCatalog::TYPE['JMTNQJFYBJXX'] => 'JMTNQJFYBJXX',
+        IResourceCatalog::TYPE['DWYSZC'] => 'DWYSZC',
+        IResourceCatalog::TYPE['JMYSJFXX'] => 'JMYSJFXX',
         //@position
     );
 }

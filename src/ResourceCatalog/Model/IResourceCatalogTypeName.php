@@ -87,7 +87,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['HYFJFLJG'] => '行业分级分类结果',
         IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
-        IResourceCatalog::TYPE['DWYSZCXX'] => '单位用水注册信息',
+//        IResourceCatalog::TYPE['DWYSZCXX'] => '单位用水注册信息',
         IResourceCatalog::TYPE['TQMYQYZK'] => '拖欠民营企业账款',
         IResourceCatalog::TYPE['ZFCGHT'] => '政府采购合同',
         IResourceCatalog::TYPE['GGZYJYHT'] => '公共资源交易合同',
@@ -116,6 +116,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JMYNJFXX'] => '居民用暖缴费信息',
         IResourceCatalog::TYPE['JMTNQFXX'] => '居民用暖欠费信息',
         IResourceCatalog::TYPE['JMTNQJFYBJXX'] => '居民用暖欠缴费用补缴信息',
+        IResourceCatalog::TYPE['DWYSZC'] => '单位用水注册信息',
+        IResourceCatalog::TYPE['JMYSJFXX'] => '居民用水缴费信息',
         //@position
     );
 }
