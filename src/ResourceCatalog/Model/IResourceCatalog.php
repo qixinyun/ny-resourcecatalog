@@ -681,14 +681,15 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['DWRQJFXX'],
             self::TYPE['DWRQZCXX'],),
         IUserGroup::ID['GDTNYRLYXZRGS'] => array(
-            self::TYPE['JMTNQJFYBJXX'],
-            self::TYPE['JMTNQFXX'],
-            self::TYPE['JMYNJFXX'],
-            self::TYPE['JMCNZCXX'],
-            self::TYPE['DWCNQJFYBJXX'],
-            self::TYPE['DWCNQFXX'],
-            self::TYPE['DCNJFXX'],
-            self::TYPE['DWCNZCXX'],),
+//            self::TYPE['JMTNQJFYBJXX'],
+//            self::TYPE['JMTNQFXX'],
+//            self::TYPE['JMYNJFXX'],
+//            self::TYPE['JMCNZCXX'],
+//            self::TYPE['DWCNQJFYBJXX'],
+//            self::TYPE['DWCNQFXX'],
+//            self::TYPE['DCNJFXX'],
+//            self::TYPE['DWCNZCXX'],
+            ),
         //@position_usergroup
     );
 
