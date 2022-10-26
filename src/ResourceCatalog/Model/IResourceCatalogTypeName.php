@@ -94,6 +94,15 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['GQCGHT'] => '国企采购合同',
         IResourceCatalog::TYPE['GCJSHT'] => '工程建设合同',
         IResourceCatalog::TYPE['QTHT'] => '其他合同',
+        IResourceCatalog::TYPE['AQSCHMD'] => '安全生产黑名单',
+        IResourceCatalog::TYPE['SXBZXR'] => '失信被执行人',
+        IResourceCatalog::TYPE['TQNMGGZHM'] => '拖欠农民工工资黑名单',
+        IResourceCatalog::TYPE['YZWFCXC'] => '严重违法超限超载黑名单',
+        IResourceCatalog::TYPE['ZDSSWFAJ'] => '重大税收违法案件当事人',
+        IResourceCatalog::TYPE['AJNSRMD'] => 'A级纳税人名单',
+        IResourceCatalog::TYPE['GLGCJSL'] => '2018年公路工程建设领域守信典型企业目录公示',
+        IResourceCatalog::TYPE['HGGJRZQYMD'] => '海关高级认证企业名单',
+        IResourceCatalog::TYPE['SYGCJSL'] => '2018年水运工程建设领域守信典型企业目录',
         //@position
     );
 }

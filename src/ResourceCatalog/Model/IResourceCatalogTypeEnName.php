@@ -95,6 +95,15 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['GQCGHT'] => 'gqcght',
         IResourceCatalog::TYPE['GCJSHT'] => 'gcjsht',
         IResourceCatalog::TYPE['QTHT'] => 'qtht',
+        IResourceCatalog::TYPE['AQSCHMD'] => 'aqschmd',
+        IResourceCatalog::TYPE['SXBZXR'] => 'sxbzxr',
+        IResourceCatalog::TYPE['TQNMGGZHM'] => 'tqnmggzhm',
+        IResourceCatalog::TYPE['YZWFCXC'] => 'yzwfcxc',
+        IResourceCatalog::TYPE['ZDSSWFAJ'] => 'zdsswfaj',
+        IResourceCatalog::TYPE['AJNSRMD'] => 'ajnsrmd',
+        IResourceCatalog::TYPE['GLGCJSL'] => 'glgcjsl',
+        IResourceCatalog::TYPE['HGGJRZQYMD'] => 'hggjrzqymd',
+        IResourceCatalog::TYPE['SYGCJSL'] => 'sygcjsl',
         //@position
     );
 }
