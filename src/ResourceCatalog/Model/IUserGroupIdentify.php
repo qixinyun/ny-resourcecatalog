@@ -114,5 +114,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['YHGQXYBGS'] => 'YHGQXYBGS',
         IUserGroup::ID['GXGQXYBGS'] => 'GXGQXYBGS',
         IUserGroup::ID['SZGH'] => 'SZGH',
+        IUserGroup::ID['NYHRRQYXGS'] => 'NYHRRQYXGS',
+        IUserGroup::ID['GDTNYRLYXZRGS'] => 'GDTNYRLYXZRGS',
     );
 }
