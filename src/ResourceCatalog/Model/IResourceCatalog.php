@@ -137,7 +137,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'GLGCJSL'=>128,
         'HGGJRZQYMD'=>129,
         'SYGCJSL'=>130,
-        //@position_type_131
+        'SHJJLYHT'=>131,
+        //@position_type_132
         'TEST' => 500
     );
 

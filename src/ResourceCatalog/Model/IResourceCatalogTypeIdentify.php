@@ -128,6 +128,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['JMTNQJFYBJXX'] => 'JMTNQJFYBJXX',
         IResourceCatalog::TYPE['DWYSZC'] => 'DWYSZC',
         IResourceCatalog::TYPE['JMYSJFXX'] => 'JMYSJFXX',
+        IResourceCatalog::TYPE['SHJJLYHT'] => 'SHJJLYHT',
         //@position
     );
 }

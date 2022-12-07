@@ -127,6 +127,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JMTNQJFYBJXX'] => '居民用暖欠缴费用补缴信息',
         IResourceCatalog::TYPE['DWYSZC'] => '单位用水注册信息',
         IResourceCatalog::TYPE['JMYSJFXX'] => '居民用水缴费信息',
+        IResourceCatalog::TYPE['SHJJLYHT'] => '社会经济领域合同',
         //@position
     );
 }
