@@ -128,6 +128,17 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DWYSZC'] => '单位用水注册信息',
         IResourceCatalog::TYPE['JMYSJFXX'] => '居民用水缴费信息',
         IResourceCatalog::TYPE['SHJJLYHT'] => '社会经济领域合同',
+        IResourceCatalog::TYPE['CCGLNCPSPJYYZFGXX'] => '仓储管理员、农产品食品检验员、制粉工信息',
+        IResourceCatalog::TYPE['EJJGGCSZCZSXX'] => '二级建造师注册证书信息',
+        IResourceCatalog::TYPE['EJJZSZCZSXX'] => '二级建造师注册证书信息',
+        IResourceCatalog::TYPE['JTYSCYRYZYZG'] => '交通运输从业人员职业资格证',
+        IResourceCatalog::TYPE['JYZZZGXX'] => '教育资质资格信息',
+        IResourceCatalog::TYPE['JZSGTZZYRYCZZGXX'] => '建筑施工特种作业人员操作资格信息',
+        IResourceCatalog::TYPE['TYJSDJCHXX'] => '体育技术等级称号信息',
+        IResourceCatalog::TYPE['YJGLTZZYCZZXX'] => '应急管理特种作业操作证信息',
+        IResourceCatalog::TYPE['ZYSYZGZS'] => '执业兽医资格证书',
+        IResourceCatalog::TYPE['ZYYAOSZXX'] => '执业药师证信息',
+        IResourceCatalog::TYPE['ZYYISZXX'] => '执业医师证信息',
         //@position
     );
 }
