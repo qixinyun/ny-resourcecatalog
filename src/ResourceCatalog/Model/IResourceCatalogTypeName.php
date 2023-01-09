@@ -129,7 +129,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JMYSJFXX'] => '居民用水缴费信息',
         IResourceCatalog::TYPE['SHJJLYHT'] => '社会经济领域合同',
         IResourceCatalog::TYPE['CCGLNCPSPJYYZFGXX'] => '仓储管理员、农产品食品检验员、制粉工信息',
-        IResourceCatalog::TYPE['EJJGGCSZCZSXX'] => '二级建造师注册证书信息',
+        IResourceCatalog::TYPE['EJJGGCSZCZSXX'] => '二级结构工程师注册证书信息',
         IResourceCatalog::TYPE['EJJZSZCZSXX'] => '二级建造师注册证书信息',
         IResourceCatalog::TYPE['JTYSCYRYZYZG'] => '交通运输从业人员职业资格证',
         IResourceCatalog::TYPE['JYZZZGXX'] => '教育资质资格信息',
